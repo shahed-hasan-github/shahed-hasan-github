@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Shahed Hasan</h1>
+<h1 align="center">Hello, I'm Shahed Hasan</h1>
 <p align="left">My technical expertise spans Java, Python, C#, JavaScript, PHP, Kotlin, along with experience in database management systems and cloud platforms. I'm also enthusiastic about machine learning, data analytics, and cybersecurity.</p>
 <p align="left">
   <p>Programming Languages: 
@@ -37,5 +37,5 @@
 
  
   <p> 
-   📫 Contact: shahedhasan.w1@gmail.com
+   📫  Contact: shahedhasan.w1@gmail.com
   </p>
