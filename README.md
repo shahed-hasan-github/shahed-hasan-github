@@ -1,3 +1,7 @@
+
+<img width="750" alt="tday" src="https://github.com/user-attachments/assets/dbf694fa-4702-4dd6-ae15-21918be95e46">
+
+
 <h1 align="center">Hello, I'm Shahed Hasan</h1>
 <p align="left">My technical expertise spans Java, Python, React, Node.js, C#, JavaScript, PHP, Kotlin, along with experience in database management systems and cloud platforms. I'm also enthusiastic about machine learning, data analytics, and cybersecurity.</p>
 <p align="left">
