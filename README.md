@@ -6,7 +6,7 @@
   
 Welcome to My GitHub Profile! 👋
 <b/>
-<p align="left"> Software Enginner with expertise across Java, Python, React, Node.js, C#, JavaScript, PHP, and Kotlin, complemented by extensive experience in database management and cloud architecture. My work reflects a blend of technical depth and creative problem-solving, especially in fields like machine learning, data analytics, and cybersecurity. I thrive on building scalable, resilient solutions and enjoy exploring how emerging technologies can drive innovation.I am driven by curiosity and a commitment to impactful development.</p>
+<p align="left"> Software Engineer with expertise across Java, Python, React, Node.js, C#, JavaScript, PHP, and Kotlin, complemented by extensive experience in database management and cloud architecture. My work reflects a blend of technical depth and creative problem-solving, especially in fields like machine learning, data analytics, and cybersecurity. I thrive on building scalable, resilient solutions and enjoy exploring how emerging technologies can drive innovation.I am driven by curiosity and a commitment to impactful development.</p>
 <p align="left">
   <p>Programming Languages: 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
